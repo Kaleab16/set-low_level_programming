@@ -21,3 +21,4 @@
 - Betty style compliant
 - No more than 5 functions per file
 - No global variables
+- Only _putchar for output (except Task 9)
