@@ -1,15 +1,14 @@
-# 0x04. C - More functions, more nested loops
+# 0x04-more_functions_nested_loops
 
-## Description
-This project focuses on writing functions that perform various checks and operations on characters and numbers, reinforcing the concepts of nested loops and functions in C.
+## Task 0: isupper
 
-## Tasks
+**File:** `0-isupper.c`
 
-### 0. isupper
-Write a function that checks for uppercase character.
+**Description:** 
+Checks for uppercase character.
 
 **Prototype:** `int _isupper(int c);`
-- Returns 1 if `c` is uppercase
-- Returns 0 otherwise
 
-**Example:**
+**Return:**
+- `1` if c is uppercase
+- `0` otherwise
